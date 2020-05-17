@@ -20,6 +20,7 @@ Get started with different machine learning topics heavily used in computer scie
 
 
 * Regression
+  * [Linear 📝](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Linear-Regression/Linear-Regression.ipynb)
 
 
 </p>
