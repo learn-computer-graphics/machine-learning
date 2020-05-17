@@ -16,6 +16,11 @@ Get started with different machine learning topics heavily used in computer scie
   * [Expectation–Maximization (EM) using Gaussian Mixture Models (GMM) 🏗️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/EM-GMM/EM-GMM.ipynb)
   * [Agglomerative Hierarchical 🏗️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Agglomerative-Hierarchical/Agglomerative-Hierarchical.ipynb)
 
+* Classification
+
+
+* Regression
+
 
 </p>
 </details>
