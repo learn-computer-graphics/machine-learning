@@ -29,7 +29,10 @@ Get started with different machine learning topics heavily used in computer scie
 <details><summary>🎯 Show Exercises</summary>
 <p>
 
-TODO
+*(🏗️ : Not started | 📝 : Started | ✔️ : Written )*
+
+* Machine learning with Unity ML-Agents
+  * [Training your first A.I](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/exercises/Unity/Training-your-first-AI/Training-your-first-AI.ipynb)
 
 </p>
 </details>
