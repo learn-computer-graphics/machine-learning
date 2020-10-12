@@ -1,4 +1,4 @@
-# Clustering
+# Introduction
 
 ## What ?
 Clustering is a statistical analysis, an unsupervised classification method brings together a set of learning algorithms whose purpose is to group together unlabelled data with similar properties. Within each cluster, data are grouped according to a common characteristic. Clustering is an algorithm that measures the proximity between each element based on defined criteria.

@@ -2,6 +2,7 @@
 
 - part: Clustering
   chapters:
+  - file: classes/Clustering/README
   - file: classes/Clustering/K-Means/K-Means
   - file: classes/Clustering/Mean-Shift/Mean-Shift
 
