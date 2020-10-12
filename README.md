@@ -1,41 +1,8 @@
-# Machine learning
+# Machine Learning
 
 Get started with different machine learning topics heavily used in computer science. Understand how they work and develop an intuition to know when to use them.
 
-## 🚩 Table of Contents
-
-<details><summary>🧩 Show Classes</summary>
-<p>
-
-*(🏗️ : Not started | 📝 : Started | ✔️ : Written )*
-
-* Clustering
-  * [K-Means ✔️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Clustering/K-Means/K-Means.ipynb)
-  * [Mean-Shift ✔️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Clustering/Mean-Shift/Mean-Shift.ipynb)
-  * [DBSCAN 🏗️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Clustering/DBSCAN/DBSCAN.ipynb)
-  * [Expectation–Maximization (EM) using Gaussian Mixture Models (GMM) 🏗️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Clustering/EM-GMM/EM-GMM.ipynb)
-  * [Agglomerative Hierarchical 🏗️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Clustering/Agglomerative-Hierarchical/Agglomerative-Hierarchical.ipynb)
-
-* Classification
-
-
-* Regression
-  * [Linear ✔️](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/classes/Regression/Linear-Regression/Linear-Regression.ipynb)
-
-
-</p>
-</details>
-
-<details><summary>🎯 Show Exercises</summary>
-<p>
-
-*(🏗️ : Not started | 📝 : Started | ✔️ : Written )*
-
-* Machine learning with Unity ML-Agents
-  * [Training your first A.I](https://nbviewer.jupyter.org/github/learn-computer-graphics/machine-learning/blob/master/exercises/Unity/Training-your-first-AI/Training-your-first-AI.ipynb)
-
-</p>
-</details>
+Our content is [viewable online](https://learn-computer-graphics.github.io/machine-learning/) with the help of Jupyter Book. If you want to know more about our organisation, you can check [our blog](https://learn-computer-graphics.github.io/blog/).
 
 ## 📖 Sources
 

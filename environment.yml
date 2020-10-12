@@ -1,0 +1,9 @@
+name: machine-learning
+dependencies:
+  - python=3.8
+  - numpy
+  - jupyter
+  - notebook
+  - ipywidgets
+  - matplotlib
+  - pandas

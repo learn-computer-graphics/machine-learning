@@ -1,0 +1,10 @@
+- file: README.md
+
+- part: Clustering
+  chapters:
+  - file: classes/clustering/k-means/K-Means
+  - file: classes/clustering/mean-shift/Mean-Shift
+
+- part: Regression
+  chapters:
+  - file: classes/regression/linear-regression/Linear-Regression
