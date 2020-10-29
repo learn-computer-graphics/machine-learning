@@ -4,7 +4,7 @@
 
 Get started with different machine learning topics heavily used in computer science. Understand how they work and develop an intuition to know when to use them.
 
-Our content is [viewable online](https://learn-computer-graphics.github.io/machine-learning/) with the help of Jupyter Book. If you want to know more about our organisation, you can check [our blog](https://learn-computer-graphics.github.io/blog/).
+Our content is [viewable online](https://machine-learning.learn-computer-graphics.com/) with the help of Jupyter Book.
 
 ## 📖 Sources
 
