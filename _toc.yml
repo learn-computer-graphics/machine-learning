@@ -11,6 +11,7 @@
   - file: classes/Regression/Linear-Regression/Linear-Regression
 
 - part: Exercices
+  chapters:
   - file: exercices/Unity/README
     sections:
     - file: exercices/Unity/Training-your-first-AI/Training-your-first-AI
