@@ -2,8 +2,8 @@
 
 Get started with different machine learning topics heavily used in computer science. Understand how they work and develop an intuition to know when to use them.
 
-```{warning}
-If you are on mobile, consider opening this book as <a href="https://machine-learning.learn-computer-graphics.com/" target="_blank">standalone</a> for better performance
+```{tip}
+If you are on your phone consider browsing through this <a href="https://machine-learning.learn-computer-graphics.com/" target="_blank">link</a> for better performance.
 ```
 
 ## 📖 Sources
