@@ -4,19 +4,4 @@
 
 Get started with different machine learning topics heavily used in computer science. Understand how they work and develop an intuition to know when to use them.
 
-Our content is [viewable online](https://machine-learning.learn-computer-graphics.com/) with the help of Jupyter Book.
-
-## 📖 Sources
-
-### Websites
-
-| Name | Founder(s)
-| --- | --- |
-| [AI Shack](https://aishack.in/tutorials/) | Utkarsh Sinha |
-| [TowardsDataScience](https://towardsdatascience.com/machine-learning/home) | [TDS Team](https://towardsdatascience.com/our-team-c2c8e712c971)
-
-### Videos
-
-| Name | Channel |
-| --- | --- |
-| [Machine learnia](https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ) |  Guillaume Saint-Cirgue |
+Our content is [viewable on our blog](https://learn-computer-graphics.com/machine-learning/) with the help of Jupyter Book. You can also use the book as [standalone](https://machine-learning.learn-computer-graphics.com/) for better performance on mobile.

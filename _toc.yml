@@ -1,4 +1,4 @@
-- file: README.md
+- file: index.md
 
 - part: Clustering
   chapters:
@@ -9,3 +9,8 @@
 - part: Regression
   chapters:
   - file: classes/Regression/Linear-Regression/Linear-Regression
+
+- part: Exercices
+  - file: exercices/Unity/README
+    sections:
+    - file: exercices/Unity/Training-your-first-AI/Training-your-first-AI
