@@ -1,16 +1,17 @@
-- file: index.md
-
-- part: Clustering
+format: jb-book
+root: index
+parts:
+- caption: Clustering
   chapters:
   - file: classes/Clustering/README
   - file: classes/Clustering/K-Means/K-Means
   - file: classes/Clustering/Mean-Shift/Mean-Shift
 
-- part: Regression
+- caption: Regression
   chapters:
   - file: classes/Regression/Linear-Regression/Linear-Regression
 
-- part: Exercices
+- caption: Exercices
   chapters:
   - file: exercises/Unity/README
     sections:

@@ -1,9 +1,6 @@
 name: machine-learning
 dependencies:
-  - python=3.8
-  - numpy
-  - jupyter
-  - notebook
-  - ipywidgets
-  - matplotlib
-  - pandas
+  - python>=3.9.13
+  - pip
+  - pip:
+    - install -r requirements.txt

@@ -9,26 +9,28 @@ jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.7
+        python-version: '3.7'
+        cache: 'pip' # caching pip dependencies
+
+    - name: Install pip wheel
+      run: pip install wheel
 
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
 
     - name: Build the book
-      run: |
-        jupyter-book build .
-        mv _build/html machine-learning
+      run: jupyter-book build .
 
     - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        ftp-server: ftp://ftp.cluster023.hosting.ovh.net/
-        ftp-username: guillaumpm
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./machine-learning/
+        server: ftp.cluster023.hosting.ovh.net
+        username: guillaumpm
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./_build/html/
+        server-dir: ./machine-learning/
