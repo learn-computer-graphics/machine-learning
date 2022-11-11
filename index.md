@@ -13,7 +13,7 @@ If you are on your phone consider browsing through this <a href="https://machine
 | Name | Founder(s)
 | --- | --- |
 | <a href='https://aishack.in/tutorials/' target='_blank'>AI Shack</a> | Utkarsh Sinha |
-| <a href='https://towardsdatascience.com/machine-learning/home' target='_blank'>TowardsDataScience</a>
+| <a href='https://towardsdatascience.com/machine-learning/home' target='_blank'>TowardsDataScience</a> | <a href='https://towardsdatascience.com/our-team-c2c8e712c971' target='_blank'>TDS Team</a>
 
 ### Videos
 
