@@ -12,11 +12,11 @@ If you are on your phone consider browsing through this <a href="https://machine
 
 | Name | Founder(s)
 | --- | --- |
-| [AI Shack](https://aishack.in/tutorials/) | Utkarsh Sinha |
-| [TowardsDataScience](https://towardsdatascience.com/machine-learning/home) | [TDS Team](https://towardsdatascience.com/our-team-c2c8e712c971)
+| <a href='https://aishack.in/tutorials/' target='_blank'>AI Shack</a> | Utkarsh Sinha |
+| <a href='https://towardsdatascience.com/our-team-c2c8e712c971' target='_blank'>TowardsDataScience](https://towardsdatascience.com/machine-learning/home) | [TDS Team</a>
 
 ### Videos
 
 | Name | Channel |
 | --- | --- |
-| [Machine learnia](https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ) |  Guillaume Saint-Cirgue |
+| <a href='https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ' target='_blank'>Machine learnia</a> |  Guillaume Saint-Cirgue |
